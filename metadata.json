@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tournament Group Planner Test2",
+  "description": "A simple application to generate groups for a tournament based on the number of teams.",
+  "requestFramePermissions": []
+}
